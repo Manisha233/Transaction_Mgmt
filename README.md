@@ -1,5 +1,5 @@
 # Transaction_Mgmt
-This application handles all the records regarding money transfers performed by the school to their students’ bank accounts.  It encompasses functionalities to manage the student details database, allocate a monthly amount to each school within the district, supervise the headmasters, as well as keep a track of each payment made to every student by them and search to pull up particular sets of data. 
+This application handles all the records regarding money transfers performed by the school to their students’ bank accounts.  It encompasses functionalities to manage the student details database, allocate a monthly amount to each school within the district, supervise the headmasters, as well as keep a track of each payment made to every student by them and search to pull up particular sets of data. It handles data that may otherwise have been dealt with in a manual fashion, which would have been cumbersome and also may have led to inaccuracies. Our application also aims to resolve some of the issues faced in the currently existing goverment app where users faced many problems regarding the interface and data management. 
 The product is intended to be used by two user types: Admin and School Principals.
 
 # Technology used are :
