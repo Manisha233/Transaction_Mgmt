@@ -3,12 +3,12 @@ This application handles all the records regarding money transfers performed by 
 The product is intended to be used by two user types: Admin and School Principals.
 
 # Technology used are :
-Front End : Java, JavaSwing, JavaFX
-Back End : Database(MySQL)
-IDE used : Netbeans.
+Front End : Java, JavaSwing, 
+Back End : Database(MySQL), 
+IDE used : Netbeans
 
 # Screenshots of the application
-![Screenshot 2022-04-06 221924](https://user-images.githubusercontent.com/77967740/162031792-2c2c2d43-2cc5-4f36-88b1-634de235bbd6.png)
+<img width="790" alt="image" src="https://user-images.githubusercontent.com/77967740/162032641-7cf26e79-04b2-443f-805a-fed03739de40.png">
 
 <img width="830" alt="image" src="https://user-images.githubusercontent.com/77967740/162031959-9c5c59af-0ce7-46e4-997a-1d3f6b337ab9.png">
 
